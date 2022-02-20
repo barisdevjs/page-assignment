@@ -366,7 +366,7 @@ main {
   text-align: left;
   width: auto;
   height: 2.5rem;
-  font-size: .9rem;
+  font-size: 1.1rem;
 }
 
 .radios  input[type="text"]::placeholder {
@@ -635,12 +635,14 @@ a, a:visited, a:hover, a:active {
   gap: 2vmin;
   background-color: #F5F6F3;
   opacity: .9;
+  padding-block: 1rem;
 }
 
 .help > h6 {
   font-size: 1rem;
   font-weight: 800;
   margin-bottom: 1vmin;
+  margin-top: 1vmin;
 }
 
 .help > p {
